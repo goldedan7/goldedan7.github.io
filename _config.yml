@@ -18,15 +18,33 @@
 minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
-locale: "ko-KR" #"en-US"
-title: "Blog Name Here" # 상단 헤더에 보이는 블로그 명
+locale: "en-UK" #"en-US"
+title: "Changhyeon Lee Portfolio" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "your name here" # 블로그 닉네임 설정
-description: "this is my blog!" # 블로그 설명
-url: "https://github-account.github.io" # 블로그 URL
+name: "goldedan7" # 블로그 닉네임 설정
+description: "echanical Engineering Portfolio – Changhyeon Lee
+
+Welcome to my engineering portfolio!  
+Here you'll find a collection of hands-on projects and simulations that showcase my interest in design, mechanics, and data-driven analysis.
+
+I'm a Mechanical Engineering graduate from the University of Bristol, and I'm particularly passionate about applied problem-solving through CAD, FEA, and Python scripting. My recent work includes:
+
+- 🔧 **Disc Brake Thermal Analysis**  
+  A Python-based model simulating temperature rise, cooling behavior, and thermal stress during repeated braking cycles.
+
+- 🛰️ **Deployable Solar Panel System**  
+  Led CAD development and design planning for a compact, truck-mounted solar array.
+
+- 🛞 **ATV Axle Design**  
+  Created detailed rear axle models with mechanical analysis for off-road vehicles.
+
+Each project reflects my goal of combining theoretical knowledge with practical application.
+
+Feel free to explore the code, simulations, and results — and check back for updates as I continue building new tools and designs." # 블로그 설명
+url: "https://goldedan7.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "github-account/github-account.github.io" # GitHub Repo 이름
+repository: "github-account/goldedan7.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
@@ -98,7 +116,7 @@ analytics:
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
+  name: "goldedan7" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
